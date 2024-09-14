@@ -8,4 +8,12 @@ Yo this is my first website I think holy cow!
 
 # Big heading again
 
-### super small heading
+### super small heading but example commands
+
+Some basic git commands are:
+
+```
+git status
+git add
+git commit
+```
